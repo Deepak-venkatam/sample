@@ -1,0 +1,10 @@
+<html>
+	<head>
+		<title>This is a sample website home page</title>
+		<body>
+			<h1>This is a dummy git projects</h1>
+			<h2>i m working had to get a job on devops</h2>
+			<h3>i should atleast get 15 LPA as my package</h3>
+		</body>
+	</head>
+</html>
