@@ -1,0 +1,3 @@
+these are the file created using touch cmd and as shown below
+touch filetouch{1,2,3}.txt
+and boom all 0byte file are created. thank you linux

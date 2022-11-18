@@ -1,0 +1,2 @@
+This is a demo file on branch master create using echo and > redirect operation from CLI
+now i m trying to ppend the text file from the CLI using printf >> which means the data from the existing file should not be lost, let me check if this worksBoth the ways of appending and redirection workked perfectly fine with > & >>

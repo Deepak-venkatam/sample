@@ -1,0 +1,5 @@
+i m trying to redirect from CLI using cat>filename.txt and checking to write
+the data into the file.
+i m now trying to append the data using the CLI liek this cat >>filename.txt and let me see if the older data will still be available.
+both the above mentioned ways are working fine.
+thnk you,
