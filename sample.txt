@@ -1,0 +1,7 @@
+this is a sample created from hotfix branch
+ another data to sample.txt
+restore the file from staging are from the below command
+git restore --staged filename
+ex: git restore --staged sample.txt
+by doing so iwas able to restore back the file from the staging area.
+
