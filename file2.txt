@@ -1,3 +1,4 @@
 This is anoth file with i tried using git
 the git wasn't working for me so i ahde to change the permissions of the folder and the group ownership as well and then i got another error saying fatal error and i had to perform the below task to ass the global safe directory inot the git repo
 git config --global --add safe.directory /home/deepak/Deepak-projects
+Using printf instead of echo here
