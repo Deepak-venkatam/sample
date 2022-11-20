@@ -3,3 +3,4 @@ after changing permission
 sample for stashing
 editing on remote repo
 editing feat1.txt from remote repo from reomte branch to check brnching from remote repo.
+sample
