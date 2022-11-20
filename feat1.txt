@@ -2,3 +2,4 @@ This is from feature branch and i m trying to create a file that has some random
 after changing permission
 sample for stashing
 editing on remote repo
+editing feat1.txt from remote repo from reomte branch to check brnching from remote repo.
